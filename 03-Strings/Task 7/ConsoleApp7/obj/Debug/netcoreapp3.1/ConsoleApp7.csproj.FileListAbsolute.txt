@@ -1,0 +1,13 @@
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.exe
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.deps.json
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.json
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.dev.json
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.dll
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.pdb
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csprojAssemblyReference.cache
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfoInputs.cache
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfo.cs
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.dll
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.pdb
+D:\обучение\epam\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.genruntimeconfig.cache
