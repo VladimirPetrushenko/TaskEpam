@@ -1,0 +1,12 @@
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+D:\обучение\epam\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.genruntimeconfig.cache
