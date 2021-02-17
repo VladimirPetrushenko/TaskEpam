@@ -1,0 +1,10 @@
+/*sadasdasdasdadasd
+asdasdasdasdasdasd
+sadasdasdasdasdasd
+asdasdasdasdasddgfdhgjghj
+dsgdfhgj*/sds
+////// TODO code applicatin logic here
+int i /*jjjjjj*/ = 0;
+string str = "'"; //COMMENT
+string ss= "sdfsdf\"\\*sdfsdf*\\\"";
+console.writeline/*("/*dfsdf*////****/**//**Hello, world!\\"); /**/ // 
