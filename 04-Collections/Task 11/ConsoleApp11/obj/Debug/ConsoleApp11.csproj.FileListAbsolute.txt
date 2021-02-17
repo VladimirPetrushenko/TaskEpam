@@ -1,0 +1,7 @@
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\обучение\epam\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
