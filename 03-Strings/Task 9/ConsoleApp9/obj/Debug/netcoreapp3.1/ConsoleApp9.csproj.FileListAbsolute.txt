@@ -1,0 +1,13 @@
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache
+D:\обучение\epam\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
